@@ -4,6 +4,10 @@
 #include <iostream>
 #include <string>
 
-
+class	Phonebook {
+	public:
+		Phonebook(void);
+		
+}
 
 #endif
